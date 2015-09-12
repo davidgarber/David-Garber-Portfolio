@@ -15,7 +15,6 @@ gem 'bootswatch-rails'
 gem 'bootstrap_forms'
 gem 'devise'
 gem 'sqlite3'
-
 gem 'rails_12factor', group: :production
 
 group :development do
