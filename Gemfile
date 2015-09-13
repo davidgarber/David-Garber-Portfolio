@@ -16,6 +16,7 @@ gem 'bootstrap_forms'
 gem 'devise'
 gem 'sqlite3'
 gem 'rails_12factor', group: :production
+gem 'paperclip'
 
 group :development do
   gem 'byebug'
